@@ -39,5 +39,11 @@ This project allows users to generate Ethereum wallets from mnemonics, store the
 ```bash
 git clone https://github.com/VIVI0007/mock-web3-wallet.git
 cd mock-web3-wallet
-<img width="1905" height="797" alt="image" src="https://github.com/user-attachments/assets/c71f3cd5-2532-4438-8c80-4667909a92a9" />
-<img width="1914" height="966" alt="Screenshot 2025-10-05 135833" src="https://github.com/user-attachments/assets/a261b25f-4dbc-418a-83db-ab0ef6a76ad0" />
+### Example: Create Wallet
+
+![Create Wallet](assets/screenshots/create-wallet.png)
+
+### Example: Get Wallet Balance
+
+![Get Balance](assets/screenshots/get-balance.png)
+
