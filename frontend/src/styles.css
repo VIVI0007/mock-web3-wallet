@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background:#f3f4f6; color:#111; }
+.container { max-width:900px; margin:30px auto; padding:10px; }
+.card { background:white; padding:16px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom:16px; }
+input, textarea, select { width:100%; padding:8px; margin-top:8px; margin-bottom:8px; border:1px solid #ddd; border-radius:4px; }
+button { padding:8px 12px; margin-right:8px; border-radius:6px; cursor:pointer; }
+.approvalBox { background:#fbfbfb; padding:8px; border-radius:6px; margin-top:8px; border:1px dashed #ddd; }
+table { border-collapse: collapse; width:100%; }
+th, td { padding:8px; border-bottom:1px solid #eee; text-align:left; }
